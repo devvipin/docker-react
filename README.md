@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run: - vipin gupta hello
+In the project directory, you can run: - vipin changes from master
 
 ### `npm start`
 
